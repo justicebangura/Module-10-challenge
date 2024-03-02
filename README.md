@@ -1,6 +1,6 @@
 # Challenge: Crypto Clustering
 
-![Crypto](https://tse4.mm.bing.net/th?id=OIP.W86wadZRcUBR-FP8NPKp0wHaEK&pid=Api&P=0&h=220)
+![Crypto](https://user-images.githubusercontent.com/118685191/241584565-6e2b06b4-fcb4-4fd1-ba26-27da7ec4652c.png)
 
 In this Challenge, I combined my financial Python programming skills with the new unsupervised learning skills.
 
