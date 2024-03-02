@@ -1,6 +1,6 @@
 # Challenge: Crypto Clustering
 
-![Crypto](https://user-images.githubusercontent.com/118685191/241584565-6e2b06b4-fcb4-4fd1-ba26-27da7ec4652c.png)
+![Crypto](https://www.grip.globalrelay.com/wp-content/uploads/2023/07/webimage-GRIP-Black-crypto.png?resize=768)
 
 In this Challenge, I combined my financial Python programming skills with the new unsupervised learning skills.
 
